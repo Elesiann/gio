@@ -2,8 +2,14 @@ const pt = {
   "sections-about": "Algumas coisas sobre mim:",
   "sections-beliefs": "Algumas opiniões que eu defenderia num bar:",
   "sections-work": "Alguns projetos que mantenho por perto:",
-  "about-stack":
-    "Construo principalmente com TypeScript, React, Next.js, Node.js, PostgreSQL e o que mais o problema pedir.",
+  "about-origin":
+    "Desmonto coisas quebradas desde os 9 anos, começando com um cofre verde que nunca consertei. Metade continua quebrada. Todas me ensinam algo.",
+  "about-tools":
+    "Construo minhas próprias ferramentas quando as que existem me incomodam.",
+  "about-learn":
+    "Quase tudo que sei eu aprendi shippando algo quebrado primeiro.",
+  "about-bilingual":
+    "Sou brasileiro e penso em dois idiomas, por isso esta página tem um seletor.",
   "about-scope":
     "Já trabalhei entre frontend, backend, integrações, billing, observabilidade e sistemas de produto com IA.",
   "about-product":
